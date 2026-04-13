@@ -1,0 +1,10 @@
+{
+  "threads": 5,
+  "delay_start_thread": 10,
+  "delay_action_min": 3,
+  "delay_action_max": 7,
+  "delay_next_acc_min": 30,
+  "delay_next_acc_max": 60,
+  "auto_bind_email": true,
+  "reset_hour_vn": 7
+}
