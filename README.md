@@ -1,7 +1,5 @@
 # Krain_Auto_Daily
-================================================================================
 HƯỚNG DẪN CÀI ĐẶT VÀ SỬ DỤNG TOOL KRAIN AI (VERSION LICENSE + PROXY)
-================================================================================
 
 1. YÊU CẦU HỆ THỐNG
 - Cài đặt Node.js phiên bản mới nhất (Khuyên dùng v18 hoặc v20+).
